@@ -1,0 +1,14 @@
+=== Analyse: Posteingang vs. Postausgang (Reiseteam 01.01.25–30.06.25) ===
+
+Posteingang: 905 E-Mails (905 mit Message-ID, 0 ohne)
+Postausgang: 151 E-Mails (151 mit Message-ID, 0 ohne)
+
+Trennung: Ja – Posteingang = eingehende Mails (an reiseteam@…), Postausgang = gesendete Mails (von reiseteam@…).
+
+Fokus: Kundendienstleistungen (zugeordnete Paare)
+  – 141 Paare: Kundenanfrage (Posteingang) + Reiseteam-Antwort (Postausgang)
+  – Diese Paare = Wissensbasis für Support/Rack (Datei: Wissensbasis_Reiseteam_141_Paare.txt)
+
+Weitere Statistik:
+  – Postausgang ohne zugeordnete Posteingang-Mail: 10
+  – Posteingang mit gefundener Antwort: 136

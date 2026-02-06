@@ -1,0 +1,82 @@
+# WISSENSTEXT FÜR KI-SUPPORT-AGENT
+## Urlaubs Service Deutschland (USD Reisen) / Reiseteam
+### Basis: Auswertung von 141 Kundendienst-E-Mail-Paaren (01.01.25–30.06.25). Keine Beispiele, nur Fakten und Regeln.
+
+---
+
+## 1. UNTERNEHMEN & KONTAKT
+
+- USD Reisen (Urlaubs Service Deutschland) ist ein Online-Reisebüro ohne stationäre Geschäfte oder Büros.
+- Reisen werden bei der R+V gegen Insolvenz abgesichert (Reisesicherungsschein des Veranstalters). Den Reisesicherungsschein erhalten Kunden mit der Anmeldebestätigung.
+- Persönliche Beratung am Telefon wird bevorzugt. E-Mails an reiseteam@unyflygroup.com werden automatisch bestätigt, aber nicht inhaltlich beantwortet; für Anliegen sollen Kunden die Website und das Telefon nutzen.
+- Telefon: 0049 (0) 4431 74 89 440. Öffnungszeiten (Stand aus den Mails): Montag–Dienstag 09:00–18:00 Uhr, Mittwoch–Freitag 09:00–12:00 Uhr; teils auch Montag–Donnerstag 09:00–18:00, Freitag bis 16:00 Uhr. Im Zweifel aktuelle Zeiten auf der Website prüfen.
+- Website: www.usd.reisen. AGB und Reiseinformationen finden Kunden unter www.usd.reisen.
+- Sitz: Registergericht Oldenburg HRA 205897. Umsatzsteuer-Identifikationsnummer gemäß § 27: DE318355174.
+- Für Stornierungen ist ausschließlich die E-Mail buchung@usd.reisen zu nutzen (nicht reiseteam@). Alternativ rechtssicher per Einschreiben an die Adresse des Reiseveranstalters (steht auf der Anmeldebestätigung).
+
+---
+
+## 2. GUTSCHEINE & PARTNER
+
+- USD Reisen ist nicht für die Ausstellung oder den Versand von Reisegutscheinen verantwortlich. Gutscheine werden von Partnern (Unternehmen, Lotterien, Gewinnspielanbietern usw.) ausgegeben, nicht von USD Reisen.
+- USD versendet keine Gutscheine und hat von Gutschein-Empfängern in der Regel keine Daten, solange diese sich nicht persönlich zur Reise angemeldet haben.
+- Wer einen Reisegutschein erhalten hat und sich beschwert (Werbung, Anrufe, Löschung, Vertrag), soll sich an den Absender des Gutscheins bzw. der Werbung wenden. Auf dem Gutschein steht in der Regel die Postadresse des Ausstellers.
+- USD übernimmt die Reiseabwicklung erst ab Einlösung des Gutscheins durch den Kunden (persönliche Anmeldung). Erst dann erhält USD die Kundendaten.
+- Ein Gutschein kann erst eingelöst werden, wenn er dem Unternehmen im Original vorliegt. Der Wert der Reise kann nicht in Bar ausgezahlt werden.
+- Nicht jeder Gutschein ist für jede Reise oder jedes Ziel gültig (z. B. bestimmte Ziele oder Zeiträume). Ob ein anderer Termin oder eine andere Reise buchbar ist, muss telefonisch oder über die Website geklärt werden.
+- Wenn ein Gewinn-/Gutscheincode bei der Buchung nicht übermittelt wurde und der Kunde ihn nachträglich nennt, kann die Buchung unter Umständen kostenfrei storniert und bei Interesse mit Code neu gebucht werden.
+
+---
+
+## 3. WERBUNG & DATENSCHUTZ (Widerspruch, Löschung, Sperrung)
+
+- Wird um Einstellung von Werbung oder Löschung/Sperrung der Daten gebeten (von Kunden, die tatsächlich bei USD bekannt sind): Die Sperrung für weitere Übersendungen von Werbung und Angeboten wird vorgenommen. Die endgültige Umstellung kann etwa vier Wochen dauern.
+- Personen, die nur einen Gutschein von einem Partner erhalten haben und sich nie bei USD angemeldet haben: USD hat keine Daten von ihnen. Es ist keine Löschung bei USD nötig; sie sollen sich an den Absender des Gutscheins/der Werbung wenden.
+- USD ist Reiseveranstalter von Incentive-Reisen für verschiedene Unternehmen. Diese nutzen USD-Reisen als Dankeschön (z. B. Reisegutschein, Paketbeilage). USD ist in solchen Fällen nicht der Absender der Werbung und hat vor Anmeldung keine Kontaktdaten der Empfänger.
+
+---
+
+## 4. STORNIERUNG & RÜCKTRITT
+
+- Reisestornierungen sind laut Reiserecht niemals automatisch kostenfrei; es gelten die AGB und ggf. Stornopauschalen.
+- Stornierung soll rechtssicher erfolgen: per Einschreiben (Deutsche Post) an die Adresse des Reiseveranstalters (auf der Anmeldebestätigung) oder ausschließlich per E-Mail an buchung@usd.reisen. Stornierungen, die nur an reiseteam@ gesendet werden, erhalten eine automatische Antwort und gelten nicht als fristgerechte Stornierung.
+- Bei Nichtzahlung der Restzahlung kann die Reise nach Mahnung und Ablauf der Frist kostenpflichtig storniert werden, wie das Reiserecht vorsieht.
+- Laut AGB (z. B. Ziff. 6.8) kann der Reiseveranstalter anstelle der Pauschalen eine höhere, konkrete Entschädigung fordern, wenn er nachweist, dass ihm wesentlich höhere Aufwendungen entstanden sind. In dem Fall muss die Forderung konkret beziffert und belegt werden (z. B. anderweitige Verwendung der Reiseleistungen). Daher sind in Einzelfällen auch 100 % Stornokosten möglich, obwohl die Pauschalabelle z. B. 90 % vorsieht.
+- Stornierungen werden zu den in den AGB genannten Bedingungen (Stornogebühren) durchgeführt. Einzelne Stornopauschalen (z. B. 80 % bei kurzfristiger Stornierung) können je nach Reise und Zeitpunkt variieren; die AGB auf www.usd.reisen sind maßgeblich.
+- Umbuchung auf eine andere Person ist grundsätzlich möglich, kann aber mit Kosten verbunden sein (z. B. wenn Flugtickets bereits ausgestellt sind und neu gebucht werden muss).
+
+---
+
+## 5. REISEUNTERLAGEN, ABHOLZEIT, ZUSTIEG
+
+- Die Detailplanung der Strecke, Abholzeit und Haltestelle erfolgt etwa 14 Tage vor Reisebeginn, um auch spät buchenden Gästen wohnortnahen Zustieg zu ermöglichen.
+- Fahrausweis und Hotel-Voucher werden in der Regel 7–10 Tage vor Reiseantritt versandt, sofern die Restzahlung vollständig eingegangen ist.
+- Abholzeit und Haltestelle stehen im Fahrausweis. Ohne pünktlichen Zahlungseingang der Restzahlung werden die Reiseunterlagen nicht versandt.
+- Die Anmeldebestätigung inklusive Reiseunterlagen kann per E-Mail zugestellt werden; Fahrausweis und Hotelvoucher werden separat ca. 10 Tage vor Reisebeginn nach vollständigem Zahlungsausgleich versandt.
+
+---
+
+## 6. ZAHLUNG & RÜCKERSTATTUNG
+
+- Rückerstattungen erfolgen auf ein Bankkonto; Verrechnungsschecks werden nicht mehr angeboten. Kunden werden ggf. gebeten, die IBAN mitzuteilen.
+- Bei Reiseabsage durch den Veranstalter (z. B. Nichtdurchführung der Reise) werden gezahlte Beträge zurückerstattet; die genaue Abwicklung erfolgt nach den AGB und der jeweiligen Buchung.
+
+---
+
+## 7. VERSICHERUNG & EMPFEHLUNGEN
+
+- USD empfiehlt grundsätzlich zu jeder Reise eine Reisekranken-, Reiseabbruch- und Rücktrittskostenversicherung. Ein Hinweis und Tarifrechner-Link: https://rechner.travelsecure.de/tarifrechner/default.aspx?partnerid=1-8-2843-1 (Würzburger Versicherungs-AG / TravelSecure). Ob ein Kunde eine solche Versicherung abgeschlossen hat, weiß USD nicht; bei Fragen zur Erstattung von Stornokosten kann die Versicherung sich an USD wenden, USD beantwortet solche Anfragen.
+- Die Reisen und Programme werden für Personen ab etwa 40 Jahren geplant. Bei starker Einschränkung der Mobilität soll vor Buchung angefragt werden.
+
+---
+
+## 8. SONSTIGES
+
+- Rechtsfragen und anwaltliche Schreiben werden über das Postfach reiseteam@ nicht bearbeitet; die Bitte lautet, solche Anliegen per Briefpost an die bekannte Adresse des Unternehmens zu richten.
+- Adress- oder Datenänderungen (z. B. neue Anschrift) können auf Kundenwunsch vorgenommen werden.
+- Fakultative Ausflüge und Zusatzleistungen sind je nach Reise buchbar; Preise und Buchung bitte über Website oder Telefon erfragen.
+- Es gelten stets die AGB des Reiseveranstalters, zu finden unter www.usd.reisen.
+
+---
+
+Ende des Wissenstexts. Dieser Text dient als Wissensbasis für einen KI-Support-Agenten; er enthält keine konkreten E-Mail-Beispiele, sondern nur generalisierte Aussagen und Regeln.

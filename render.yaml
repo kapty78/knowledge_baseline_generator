@@ -1,0 +1,16 @@
+# Render Blueprint – Web Service für Wissensbasis-Pipeline
+services:
+  - type: web
+    name: wissensbasis-pipeline
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4.1-mini-2025-04-14

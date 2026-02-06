@@ -1,0 +1,16 @@
+.env
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+KI_Wissensextraktion_Alle_Mails.md
+
+# Daten/Output (nicht für Deploy)
+Posteingang*/
+Postausgang*/
+pipeline_test/
+output*/
+*_Paare.txt
+*_vollstaendig.txt
+paare_*.json
+*.pdf

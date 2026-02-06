@@ -1,0 +1,120 @@
+# WISSENSTEXT FÜR KI-SUPPORT-AGENT
+# Urlaubs Service Deutschland (USD Reisen) / Reiseteam
+#
+# Erzeugt systematisch aus KI-Analyse der 141 Kundendienst-Paare:
+# 1) Parser → strukturierte Daten, 2) Themen + Satzextraktion + Häufigkeit,
+# 3) Filter + Generalisierung → reines Wissen, keine Beispiele.
+
+========================================================================
+
+## STAMMDATEN (Kontakt, Unternehmen)
+
+- USD Reisen (Urlaubs Service Deutschland) ist ein Online-Reisebüro ohne stationäre Geschäfte oder Büros.
+- Reisen sind bei der R+V gegen Insolvenz abgesichert (Reisesicherungsschein); dieser wird mit der Anmeldebestätigung mitgesendet.
+- Telefon: 0049 (0) 4431 74 89 440. Aus Österreich/Schweiz: 0049 4431 748 9440.
+- Öffnungszeiten (Stand Korpus): Montag–Dienstag 09:00–18:00 Uhr, Mittwoch–Freitag 09:00–12:00 Uhr (variiert, aktuelle Angaben auf der Website prüfen).
+- Website: www.usd.reisen. AGB und Reiseinfos unter www.usd.reisen.
+- Stornierung: ausschließlich per E-Mail an buchung@usd.reisen oder rechtssicher per Einschreiben an die Adresse des Reiseveranstalters (steht auf der Anmeldebestätigung). E-Mails an reiseteam@ werden nicht inhaltlich beantwortet.
+- Sitz: Registergericht Oldenburg HRA 205897. USt-IdNr. § 27: DE318355174.
+
+## UNTERNEHMEN & KONTAKT
+
+- USD ist bei Gutschein-/Partner-Anfragen in keiner Form mit der Person in Kontakt getreten (Kontakt läuft über den Partner).
+- Die Sperrung der Daten für weitere Übersendungen von Werbung und Angeboten wird auf Wunsch vorgenommen.
+- Die endgültige Umstellung kann etwa vier Wochen dauern.
+- Bei reinen Gutschein-Empfängern (ohne Anmeldung zur Reise) hat USD keinerlei Daten von der Person.
+- Partner-Unternehmen nutzen USD-Reisen als Dankeschön für ihre Kunden (z. B. Reisegutschein, Paketbeilage).
+- Kundendaten erhält USD erst durch die persönliche Anmeldung zur Reise (Einlösung des Gutscheins).
+- USD Reisen ist Reiseveranstalter von Incentive-Reisen für verschiedene Firmen und Unternehmen.
+- Diese Unternehmen nutzen unsere Reisen als Dankeschön für Ihre Kunden, zum Beispiel auch als Reisegutschein, Paketbeilage oder Ähnliches.
+- Der Wert eines Reisegutscheins kann nicht in Bar ausgezahlt werden.
+- Auf Wunsch kann die Originalrechnung zur Einreichung bei der Versicherung (z. B. Rücktrittskostenversicherung) zugesandt werden; bei Rückfragen kann die Versicherung sich an USD wenden.
+- Laut AGB kann der Reiseveranstalter bei Nachweis wesentlich höherer Aufwendungen eine höhere als die Pauschal-Stornierung fordern (AGB 6.8).
+- Die höhere Entschädigung muss konkret beziffert und belegt werden (ersparte Aufwendungen, anderweitige Verwendung der Reiseleistungen).
+- USD übernimmt die Reiseabwicklung erst ab Einlösung des Gutscheins durch den Kunden.
+- Guten Tag, wir sind Reiseveranstalter von Incentivs für verschiedene Unternehmen.
+- Die Detailplanung (Strecke, Abholzeit, Haltestelle) erfolgt etwa 14 Tage vor Reisebeginn.
+- Fahrausweis und Hotel-Voucher werden 7–10 Tage vor Reiseantritt versandt (nach vollständigem Zahlungseingang).
+- Abholzeit und Haltestelle stehen im Fahrausweis.
+- Voraussetzung für den Versand der Reiseunterlagen ist der pünktliche Zahlungseingang der Restzahlung.
+- Sie haben offensichtlich einen Reisegutschein mit einer Reise von uns bekommen.
+- Sie haben auch nicht mit uns telefoniert und schon gar nicht haben Sie einen Vertrag mit uns.
+- Wir sind Reiseveranstalter von Incentivs für verschiedene Unternehmen sind.
+- Wir übernehmen eine Reiseabwicklung erst ab Einlösung eines Reisegutscheins durch den jeweiligen Kunden.
+
+## GUTSCHEINE & PARTNER
+
+- Zum Beispiel als Reisegutschein, Paketbeilage oder Ähnliches.
+- Eine Erklärung Ihrer Forderung in dieser Höhe wäre hilfreich gewesen.
+- In Beantwortung Ihrer E-Mail teilen wir Ihnen daher heute mit, daß wir als Reiseveranstalter von Incentivs für verschiedene Unternehmen tätig sind.
+- Dieses Unternehmen hat uns mit der Abwicklung der ausgelobten Reise beauftragt.
+
+## WERBUNG & DATENSCHUTZ
+
+- Wir übernehmen eine Reiseabwicklung erst ab der Einlösung durch den Interessenten.
+- Wir haben KEINE DATEN von Ihnen.
+- Guten Tag, wir sind Reiseveranstalter von Incentivs für verschiedene Firmen.
+- Wenden Sie sich diesbezüglich an den Absender der Nachricht Ihres Angebotes welcher Ihnen einen Reisegutschein mit einer Reise von uns zukommen lassen hat.
+
+## STORNIERUNG & RÜCKTRITT
+
+- Reisestornierungen sind laut Reiserecht niemals automatisch kostenfrei; es gelten die AGB.
+- Bitte senden Sie uns eine Kopie des E-Mail Sendeberichts Ihrer Stornierung.
+- Sehr gerne werden wir dann für Sie dieses Datum der Stornierung setzen.
+- Es handelt sich auch nicht um versteckte Kosten, da Sie unser Ausflugsangebot nicht zwingend nutzen mussten.
+- Ihre Stornierung haben wir daher mit Bedauern zur Kenntnis genommen.
+- Guten Tag, wir nehmen Bezug auf Ihre E-Mail und teilen Ihnen hierzu mit, die anzuwendenden Stornierungskosten für die von Ihnen gewählten Zusatzleistungen, können Sie unseren AGB,s entnehmen.
+- Guten Tag, wir haben die Angelegenheit zur Prüfung an die Buchhaltung weitergeleitet.
+- 7-10 Tage vor Reiseantritt, nach vollständigen Rechnungsausgleich Ihren Fahrausweis und Hotel -Voucher.
+- Das ist schon deshalb notwendig, da die Abholung für Sie an einer extra geplanten Haltestelle erfolgt wäre.
+- Wir bedauern Ihre Entscheidung, die gebuchte Reise zu stornieren, bestätigen Ihnen aber per separater E-Mail den Eingang sowie die Wirksamkeit Ihrer Stornierung.
+
+## REISEUNTERLAGEN & ABHOLZEIT
+
+- Sollten Ihnen Stornokosten berechnet werden und haben Sie eine Reiserücktrittsversicherung abgeschlossen, könnten diese die Kosten eventuell übernehmen.
+- Bitte überweisen Sie alle Zahlungen zu den in den Unterlagen aufgeführten Terminen, auf folgendes Konto: Unyfly Group GmbH & Co.
+- KG DE35 2806 3526 7335 6956 00 BIC: GENODEF1ESO Unsere Erfahrung hat gezeigt das die Kommunikation per E-Mail zu Mißverständnissen führen kann und unnötig alles in die Länge zieht.
+- Es ist meist besser, drei Minuten zu telefonieren, als drei Tage lang E-Mails hin und her zu senden.
+- Aus Österreich und der Schweiz wählen Sie bitte 0049 4431 748 9440.
+- Wir empfehlen zu allen Reisen den Abschluß einer Reiserücktrittskostenversicherung.
+- Gesonderte Bedingungen : Wir sind Reiseveranstalter von Incentivs für verschiedene Unternehmen.
+- Bitte beachten Sie, daß die Teilnahme an der reservierten Reise zu diesen Sonderkonditionen, nur einmal pro Person möglich ist.
+- Dies gilt auch bei mehrfacher oder späterer Ansprache über verschiedene Versender.
+- Eine gleichwertige Ersatzreise mit einem anderen Reiseziel, kann in so einem Fall als Ausgleich von der Unyfly Group GmbH & Co.
+- Es gelten die AGB (beiliegend) des Reiseveranstalters Unyfly Group GmbH & Co.
+- Bitte beachten Sie, dass die Reiseunterlagen erst nach vollständigem Zahlungseingang versendet werden können.
+
+## ZAHLUNG & RÜCKERSTATTUNG
+
+- Auch war dieser Gutscheinwert nach Reiseabsage nicht hinfällig.
+- Sondern konnte weiterhin bei Umbuchung auf einen anderen Reisetermin in Abzug gebracht werden.
+- Das Angebot, um den Gutschein noch einzulösen, für eine Buchung der Reise nach Pommern in 2025 steht noch immer.
+
+## VERSICHERUNG
+
+- Dafür haben wir Extra ein starkes Team von Reiseexperten, die Ihnen in allen Reisefragen kompetent beratend zur Seite stehen werden.
+- Bitte rufen Sie uns unter der 044317489440 an.
+- Sie werden sehen wie einfach sich vieles von Mensch zu Mensch beantworten lässt.
+- 004944317489440 Montag bis Dienstag 09:00 UHR - 18:00 UHR Mittwoch - Freitag 09:00 UHR - 12:00 UHR INFORMATION ZU REISEN FINDEN SIE UNTER www.usd.reisen Bitte nutzen Sie für Ihr Anliegen unsere Kontaktmöglichkeiten im Internet.
+- Ihre E-Mail wird hier nicht gespeichert und kann hier nicht beantwortet werden.
+- Haben Sie Fragen zu einer gebuchten Reise oder einen Reisegutschein ?
+- Dann gehen Sie bitte auf unsere Seite im Internet www.usd.reisen Hier finden Sie Antworten und direkt Formulare für Ihr Anliegen.
+- Es gelten die AGB des Reiseveranstalters die Sie im Internet unter www.usd.reisen finden.
+- Wir sind ein Online-Reisebüro ohne stationäre Geschäfte oder Büros.
+- Unsere Reisen sind bei der R+V gegen Insolvenz (Reisesicherungsschein) des Veranstalters abgesichert.
+- Den Reisesicherungsschein erhalten Sie immer mit der Anmeldebestätigung.
+- Wir empfehlen grundsätzlich zu jeder Reise eine Reisekranken-abbruch-rücktrittskostenversicherung.
+- Kopieren Sie für weitere Informationen und die Möglichkeit sicher zu buchen den nachfolgenden Link in Ihren Internetbrowser: https://rechner.travelsecure.de/tarifrechner/default.aspx?partnerid=1-8-2843-1 Ihre mögliche Reiseabsage schicken Sie bitte Rechtssicher per Einschreiben /Deutsche Post an die Adresse des Reiseveranstalters.
+- Die Adresse finden Sie auf Ihre Anmeldebestätigung.
+- Fragen Sie uns zu Ihrer Eignung der Reise, bei wirklich starker Einschränkung Ihrer Mobilität.
+- Die Reisen und Programme werden für Personen über 40 Jahren geplant.
+- Sollten Sie einen Reisegutschein erhalten haben, beachten Sie bitte das der Gutschein erst eingelöst werden kann wenn dieser uns im ORIGINAL vorliegt.
+- Wir haben von Ihnen weder Ihre Adresse noch haben wir Ihnen den Gutschein gesandt.
+- Es gelten die AGB des Reiseveranstalters, zu finden unter www.usd.reisen DAS IST EINE AUTOMATISIERTE ANTWORT AUF IHRE E-MAIL.
+- PS: Die Kommunikation per E-Mail hat den Nachteil, daß über das Internet versandte unverschlüsselte, unsignierte Nachrichten von Unbefugten zur Kenntnis genommen (fehlende Vertraulichkeit) bzw.
+- Der Absender einer E-Mail lässt sich ebenfalls verändern bzw.
+- hinter Pseudo-E-Mail-Adressen verbergen (fehlende Authentizität).
+
+========================================================================
+
+Ende des Wissenstexts. Quelle: Analyse_Report_KI_Wissen.md, Wissens_Kandidaten_pro_Thema.json.

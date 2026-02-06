@@ -1,0 +1,105 @@
+## 1. Unternehmen & Kontakt
+- USD Reisen ist Reiseveranstalter für Incentive-Reisen, die über Partnerunternehmen als Gutscheine ausgegeben werden; direkte Vertragsbeziehungen bestehen erst bei persönlicher Anmeldung.  
+- Kundenanfragen werden nicht per E-Mail beantwortet; telefonischer Support mit festen Öffnungszeiten ist der bevorzugte Kommunikationsweg.  
+- Automatisierte E-Mail-Empfangsbestätigungen verweisen auf Telefonkontakt, Öffnungszeiten, Webseite, AGB, Reisesicherungsschein und Versicherungen.  
+- Kunden werden auf die Website www.usd.reisen für FAQs, Formulare, AGB und weitere Informationen verwiesen.  
+- Telefonnummern und Ansprechpartner sind regelmäßig zu prüfen und aktuell zu halten, inklusive korrekter Ländervorwahl.  
+- Rückrufwünsche sind intern zu dokumentieren und zeitnah zu bearbeiten; Rückrufe erfolgen nicht automatisch.  
+- Support-Antworten sind stets höflich, professionell, klar strukturiert und kundenorientiert zu formulieren, inklusive Anrede und Grußformel.  
+- Interne Kommunikation ist strikt von Kundenkommunikation zu trennen; interne Notizen oder unvollständige Antworten dürfen nicht an Kunden versendet werden.  
+- Eskalationen bei komplexen, rechtlichen oder unklaren Fällen sind an Fachabteilungen, Rechtsabteilung oder Datenschutzbeauftragte weiterzuleiten.  
+- Kundenanfragen ohne ausreichende Identifikationsmerkmale (z. B. Buchungsnummer) sind mit höflicher Rückfrage zu ergänzen.  
+- Alternative Kontaktwege sind anzubieten, wenn primäre Kanäle nicht funktionieren oder Erreichbarkeitsprobleme bestehen.  
+- Support dokumentiert alle Kundenkontakte, Beschwerden und interne Maßnahmen vollständig und nachvollziehbar im CRM-System.  
+
+## 2. Gutscheine & Partner
+- Gutscheine werden ausschließlich von Partnerunternehmen ausgegeben und müssen im Original vorliegen; keine Einlösung per E-Mail oder Barauszahlung möglich.  
+- Gutscheine sind meist an bestimmte Reisedaten und Basistermine gebunden; Umbuchungen und alternative Einlösungen sind individuell zu prüfen.  
+- Gutscheine können Saisonzuschläge kompensieren, decken jedoch nur den Basistermin (z. B. 3 Tage/2 Nächte) ab; Zusatzleistungen und längere Aufenthalte verursachen Zuzahlungen.  
+- Gutscheinbedingungen (Gültigkeit, Einlösemodalitäten, Einschränkungen) sind einheitlich, klar und transparent zu kommunizieren und bei Unklarheiten intern zu prüfen.  
+- Kundenanfragen zu Gutscheinen werden telefonisch oder über die Website beraten; verbindliche Auskünfte per E-Mail sind nicht zulässig.  
+- Gutscheine bleiben nach Stornierung gültig und können für Umbuchungen genutzt werden; Barauszahlung erfolgt nicht.  
+- Incentive-Reisen werden über Partnerunternehmen vergeben; USD Reisen besitzt keine Kundendaten ohne persönliche Anmeldung und ist nicht Vertragspartner der Gutscheinempfänger.  
+- Kunden ohne direkte Vertragsbeziehung sind bei Datenschutz- oder Werbeanfragen an den Gutschein-Aussteller oder Partnerunternehmen zu verweisen.  
+- Support bestätigt den Eingang von Gutscheinen und Anhängen, prüft diese und informiert Kunden verbindlich über Versand und Liefertermine.  
+- Gutscheinweitergabe ist nicht automatisch möglich und erfordert individuelle Prüfung und telefonische Beratung.  
+
+## 3. Werbung & Datenschutz
+- USD Reisen versendet keine Werbepost direkt an Endkunden; Kundendaten liegen nur bei persönlicher Anmeldung vor.  
+- Kunden können jederzeit der Zusendung von Werbung widersprechen; die Sperrung der Daten für Werbezwecke wird umgehend veranlasst, Umsetzung kann bis zu vier Wochen dauern.  
+- Löschungsanfragen personenbezogener Daten sind getrennt von Werbeabmeldungen zu behandeln und erfolgen unter Beachtung gesetzlicher Aufbewahrungspflichten.  
+- Datenschutzanfragen sind gemäß DSGVO zeitnah, höflich, transparent und verbindlich zu beantworten; bei fehlenden Daten ist dies dem Kunden freundlich mitzuteilen.  
+- Kunden werden über ihre Rechte informiert und auf weiterführende Informationen (z. B. Datenschutzrichtlinie, FAQ) verwiesen.  
+- Anfragen von Dritten oder Vertretern erfordern Prüfung der Legitimation und Vollmacht vor Bearbeitung.  
+- Kundenwünsche zur Unterlassung von Werbung sind zu dokumentieren und an Marketing oder zuständige Stellen weiterzuleiten.  
+- Datenschutz und Vertraulichkeit sind bei allen Kundendaten und Kommunikationskanälen strikt einzuhalten.  
+- Bei Todesfallmeldungen werden Daten für Werbezwecke gesperrt; vollständige Löschung erfolgt nicht automatisch, Kunden werden über Fristen informiert.  
+- Kommunikation bei Datenschutzanfragen ist deeskalierend, sachlich und vermeidet juristische Fachbegriffe ohne Erklärung.  
+- Kunden werden bei Datenschutzanfragen an den ursprünglichen Datenverantwortlichen (z. B. Partnerunternehmen) verwiesen, wenn USD Reisen keine Daten verarbeitet.  
+
+## 4. Stornierung & Rücktritt
+- Stornierungen sind nur schriftlich rechtswirksam, per Einschreiben an die Veranstalteradresse oder per E-Mail an die offizielle Adresse buchung@usd.reisen; telefonische Stornierungen dienen der Beratung und sind nur gültig, wenn dokumentiert und bestätigt.  
+- Stornierungen müssen Kunden- und Buchungsnummer enthalten und werden umgehend bestätigt; Rückmeldungen erfolgen idealerweise innerhalb eines Werktages.  
+- Stornierungsdatum ist für Gebührenberechnung entscheidend; ohne Nachweis gilt das Datum der ersten schriftlichen Kontaktaufnahme oder aktuellen Anfrage.  
+- Stornogebühren sind gestaffelt und richten sich nach den AGB; z. B. 90 % des Reisepreises bei Stornierung 4 Tage vor Reisebeginn, höhere Gebühren möglich bei Nachweis höherer Kosten.  
+- Kostenfreie Stornierungen sind nur unter bestimmten Bedingungen möglich und müssen individuell geprüft werden; Umbuchungen werden als Alternative angeboten.  
+- Stornierungen aus gesundheitlichen Gründen werden akzeptiert und gemäß AGB bestätigt, ohne Nachweise in der ersten Antwort zu verlangen; ärztliche Atteste können zur Prüfung angefordert werden.  
+- Stornierungen bei Nichtzahlung der Restzahlung erfolgen nach Mahnung, mindestens zwei Wochen vor Reisebeginn; Mahnungen sind Voraussetzung für Stornierung.  
+- Stornierungen von einzelnen Reiseteilnehmern können Zimmerbuchungen beeinflussen und sind entsprechend anzupassen.  
+- Rückerstattungen erfolgen nur bei berechtigtem Anspruch nach Prüfung und Vorlage aller erforderlichen Unterlagen; Kundenfristen sind zu beachten.  
+- Kunden sind freundlich, verständnisvoll und transparent über Stornierungsprozesse, Fristen, Kosten und Nachweispflichten zu informieren.  
+- Kulanzanfragen werden aufgenommen, aber nicht automatisch zugesichert und an zuständige Stellen weitergeleitet.  
+- Stornierungen werden schriftlich bestätigt und im System dokumentiert; Empfang von Stornierungsanfragen ist ausdrücklich zu bestätigen.  
+- Telefonische Absagen gelten nicht als verbindlich; Kunden sind auf die Notwendigkeit der schriftlichen Bestätigung hinzuweisen.  
+- Support vermeidet falsche oder irreführende Gründe für Stornierungen und nennt keine juristischen Fachbegriffe ohne Erklärung.  
+- Bei Stornierungsanfragen sind klare, präzise Antworten mit Angabe der Gebühr in Prozent zu geben; persönliche Zusatzinformationen sind irrelevant.  
+
+## 5. Reiseunterlagen, Abholzeit, Zustieg
+- Reiseunterlagen (Fahrausweis, Hotelvoucher) werden ca. 7–14 Tage vor Reisebeginn nach vollständigem Zahlungsausgleich per Post versandt; Versanddatum ist im System zu dokumentieren und Kunden bei Nachfrage mitzuteilen.  
+- Abfahrtsorte und Zustiegspunkte werden aus organisatorischen Gründen festgelegt und können weiter entfernt liegen; vertragliche Grundlagen sind in den AGB geregelt.  
+- Kunden sind vorab darüber zu informieren, dass Abfahrtsorte nicht vor Versand der Reiseunterlagen bekanntgegeben werden, um Verwirrung zu vermeiden.  
+- Kunden können Änderungswünsche zu Abholorten äußern; Support prüft Machbarkeit, gibt verbindliche Rückmeldung und sendet ggf. aktualisierte Unterlagen.  
+- Beschwerden über Zustiegspunkte sind ernst zu nehmen, zeitnah zu beantworten und wenn möglich ortsnahe Alternativen anzubieten; telefonische Klärung wird empfohlen.  
+- Flugtickets werden nicht vorab per E-Mail versendet, sondern erst am Flughafen von der Airline ausgestellt; Kunden müssen am Flughafen zum Check-in erscheinen.  
+- Informationsblätter können Schreibfehler enthalten, diese sind jedoch irrelevant für die Reiseabwicklung.  
+- Kundenanfragen zu fehlenden Reiseunterlagen sind dringlich zu behandeln und mit klarer Statusinformation zu beantworten; bei Nichtankunft sind Kunden auf die Hotline zu verweisen.  
+- Automatisch versendete Reiseunterlagen stammen von „nicht-antworten“-Adressen; Rückfragen sind telefonisch zu klären.  
+- Kunden sind über Versandverzögerungen empathisch, klar und informativ zu informieren; interne Konsistenz bei Versandinformationen ist sicherzustellen.  
+
+## 6. Zahlung & Rückerstattung
+- Zahlungen müssen eindeutig zugeordnet werden können (Kontoinhaber, Buchungsnummer, Referenzen); Zahlungen von Dritten ohne korrekte Referenz erschweren die Zuordnung.  
+- Offene Forderungen inklusive Mahngebühren sind transparent und zeitnah dem Kunden mitzuteilen; Zahlungen aufrunden sind positiv zu bewerten.  
+- Rückzahlungen erfolgen ausschließlich per Banküberweisung; Verrechnungsschecks werden nicht akzeptiert.  
+- Für Rückzahlungen ist die Mitteilung der IBAN durch den Kunden erforderlich; ohne IBAN erfolgt keine Rückzahlung.  
+- Rückzahlungen nach Stornierung erfolgen in der Regel innerhalb von 7 Werktagen nach Stornobestätigung; Kunden sind über den genauen Zeitrahmen zu informieren.  
+- Vor Rückzahlung ist sicherzustellen, dass aktuelle Bankdaten vorliegen; falls nicht, ist der Kunde höflich um Übermittlung zu bitten.  
+- Zahlungsaufforderungen sind mit Erläuterung der Kosten zu versehen und kundenorientiert zu kommunizieren.  
+- Zahlungsfristen und offene Beträge sind klar und transparent zu kommunizieren; bei Nichteinhaltung können Mahnungen oder Stornierungen folgen.  
+- Mahnungen sind Voraussetzung für Stornierung und müssen klar kommuniziert werden; Mahnungen dürfen nur bei bestätigten Forderungen versandt werden.  
+- Bei Zahlungsproblemen ist eine interne Bankprüfung durchzuführen; Kunden sind auf sichere Zahlungswege hinzuweisen.  
+- Kunden können um Verschiebung von Anzahlungsfristen bitten; Support gewährt in der Regel mindestens 4 Tage Fristverlängerung und bestätigt diese zeitnah.  
+- Support bestätigt Zahlungseingänge zeitnah und eindeutig; Verzögerungen sind dem Kunden mitzuteilen.  
+- Kundenanfragen zu Zahlungsdienstleistern (z. B. PayPal) sind sachlich zu beantworten; Kunden werden auf offizielle Kontaktwege verwiesen.  
+- Inkassoschreiben sind anhand des Aktenzeichens eindeutig zu referenzieren, intern zu prüfen und an zuständige Fachabteilungen weiterzuleiten; Kommunikation erfolgt sachlich und höflich.  
+
+## 7. Versicherung & Empfehlungen
+- Kunden wird der Abschluss von Reisekranken-, Abbruch- und Rücktrittskostenversicherungen empfohlen; Links zu Tarifrechnern sind verfügbar.  
+- USD Reisen hat keinen Einblick in den Versicherungsstatus der Kunden und übernimmt keine Haftung für Versicherungsleistungen.  
+- Originalrechnungen und Nachweise sind auf Kundenwunsch zur Vorlage bei Versicherungen bereitzustellen.  
+- Versicherungsanfragen werden schnellstmöglich beantwortet, um Erstattungen zu erleichtern.  
+- Kunden werden bei Stornierungen aus Krankheitsgründen empathisch und lösungsorientiert betreut; ärztliche Atteste können zur Prüfung angefordert werden.  
+
+## 8. Sonstiges
+- Kundenanfragen zu fakultativen Ausflügen sind vollständig, zeitnah (innerhalb eines Werktages) und mit Preisangaben pro Person zu beantworten; Vorabbuchung ist möglich, aber nicht verpflichtend.  
+- Zusatzleistungen (z. B. Ausflüge, Vollpension) sind optional, kostenpflichtig und werden separat angeboten; Kunden sind rechtzeitig und schriftlich über Preise und Leistungen zu informieren.  
+- Kundenanfragen zu Saisonaufschlägen und Zusatzkosten sind sachlich, freundlich und transparent zu beantworten; Zuschläge basieren auf Buchungsverhalten und Nachfrage, nicht ausschließlich auf klassischen Saisonzeiten.  
+- Technische Probleme auf der Webseite oder beim Dokumentenversand sind ernst zu nehmen, an die IT-Abteilung weiterzuleiten und Kunden mit klaren Hilfestellungen und alternativen Kontaktwegen zu versorgen.  
+- Kundenbeschwerden und Kritik sind empathisch, professionell und lösungsorientiert zu behandeln; unprofessionelle oder ironische Antworten sind strikt zu vermeiden.  
+- Kunden mit mehrfachen Anliegen sind strukturiert und vollständig zu betreuen; Wiederholungen der Kundenanfrage in der Antwort sind unzulässig.  
+- Kundenfehler oder Missverständnisse sind nicht zu kritisieren; stattdessen ist Verständnis zu zeigen und kundenorientierte Lösungen anzubieten.  
+- Support-Antworten enthalten keine juristischen Fachbegriffe ohne Erklärung und vermeiden Schuldzuweisungen.  
+- Kunden werden bei komplexen oder unklaren Anliegen auf persönliche Beratung per Telefon verwiesen.  
+- Support stellt sicher, dass alle relevanten Informationen (z. B. Buchungsnummer, Ansprechpartner) in der Antwort enthalten sind, um Verwechslungen zu vermeiden.  
+- Interne Eskalationsprozesse und Dokumentation sind zwingend einzuhalten, um Qualität und Nachvollziehbarkeit zu gewährleisten.  
+- Kunden werden auf sichere Kommunikationswege hingewiesen, um Phishing und Betrugsversuche zu vermeiden.  
+- Support-Agenten sind regelmäßig zu schulen, um einheitliche, korrekte und kundenorientierte Kommunikation sicherzustellen.
